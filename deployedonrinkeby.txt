@@ -1,0 +1,22 @@
+Deployed on Rinkeby:
+
+SupplyChainStorage: 0xf353afe2a7098b2ca98a7e5af8ebca06f074d055 - gas: 5506814
+CoffeeSupplyChain: 0xb3572307d777ccde318821a1171e55e46c684f6b - gas: 5954449
+SupplyChainUser: 0xe2b110c434924424f72dd0028752d6f9dd3d0654 - gas: 1684049
+
+
+Running migration: 2_deploy_contracts.js
+  Deploying SupplyChainStorage...
+  ... 0xacf8ba029103b0b9704dd14ebede9d9beca80b614f3970f44ec615e0e13456fe
+  SupplyChainStorage: 0xf353afe2a7098b2ca98a7e5af8ebca06f074d055
+  Deploying CoffeeSupplyChain...
+  ... 0xcee6437595c13e7724849f6fa8a106d6a77a83adfa605a4a26af8b467350ace6
+  CoffeeSupplyChain: 0xb3572307d777ccde318821a1171e55e46c684f6b
+  Deploying SupplyChainUser...
+  ... 0x7ca43840c88c9e645d62a35a72b7be3651fb2bdd7f31e7f457f1dcc1037b440d
+  SupplyChainUser: 0xe2b110c434924424f72dd0028752d6f9dd3d0654
+  ... 0x73a35f1c22450426759941e8266e81a7b8b5d7f110ab395bb46716d3112e43ae
+  ... 0x36a794081c3ed370d1c49f2e95a06dcbeb1baafd416221bfa2435bdd3145cc96
+Saving successful migration to network...
+  ... 0x84556f5430fa297131b56c197aa2442116e5db421c6a1b07f4e4b3280f21d1cc
+Saving artifacts...
